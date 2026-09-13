@@ -1,4 +1,4 @@
-echo "# 30-days-Coding-Challenge-Python" > README.md
+# 30-days-Coding-Challenge-Python 
 
 This challenge will help me rebuild my programming skills from scratch through active manual approach
 
