@@ -4,8 +4,8 @@ This challenge will help me rebuild my programming skills from scratch through a
 
 ## RULES
 - Pure manual problem-solving (NO AI-GENERATED SOLUTIONS).
--AI-generated used only for creating programming problems
--Debug via terminal trace outputs first, before seeking hints or answers to AI
+- AI-generated used only for creating programming problems
+- Debug via terminal trace outputs first, before seeking hints or answers to AI
 
 ## Daily Progress
 
