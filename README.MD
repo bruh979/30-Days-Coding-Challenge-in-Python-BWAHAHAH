@@ -10,3 +10,5 @@ This challenge will help me rebuild my programming skills from scratch through a
 ## Daily Progress
 
 - [x] **Day 01:** Python Basic Fundamentals, Conditioning, Loops, and Pre-Exam (As this is my first day, I use AI for clues just to make sure my logic is well structured  )
+
+- [x] **Day 02:** Learning Python Variables, Data-Types, and Function 
